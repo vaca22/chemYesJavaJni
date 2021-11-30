@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/chemcalc/build/
+/chemcalc/build/classes/java/main/
+/out/

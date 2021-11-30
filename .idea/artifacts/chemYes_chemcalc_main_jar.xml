@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="chemYes.chemcalc.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chemYes_chemcalc_main_jar</output-path>
+    <root id="archive" name="chemYes.chemcalc.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/chemcalc/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="chemYes.chemcalc.main" />
+    </root>
+  </artifact>
+</component>
